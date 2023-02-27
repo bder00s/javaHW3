@@ -14,7 +14,7 @@ public class Converter {
         }
 
     }
-
+    //METHODE VOOR HET CONVERTEREN VAN EEN NUMBER
     public String translate(Integer number) {
         String result = numericAlpha.get(number);
         return result;
