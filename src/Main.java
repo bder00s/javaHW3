@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        // Hier mag je je code scrijven voor de hoofd-opdracht
+        // Hier mag je je code scrijven voor de hoofd-opdracht!
+
+
 
         /* deze regel mag je weg halen voor de bonus opdracht. Onderstaande code is voor de bonus opdracht.
         HashSet<Integer> secretnumber = randomnumbergenerator();
