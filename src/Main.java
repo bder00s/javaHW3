@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        //ARRAYS
+        //ARRAYS /////////////////////////////////////////////////
         Integer[] numeric = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0};
 
         String[] alphabetic = {"een", "twee", "drie", "vier", "vijf", "zes", "zeven", "acht", "negen", "nul"};
@@ -25,7 +25,7 @@ public class Main {
 
             String input = scanner.nextLine();
 
-            // IF STATEMENT, WIL GEBRUIKER DOORGAAN OF NIET?///
+            // IF STATEMENT, WIL GEBRUIKER DOORGAAN OF NIET?///////////////////////
             if (input.equalsIgnoreCase("x")) {
                 play = false;
             } else if (input.equalsIgnoreCase("v")) {
